@@ -61,14 +61,13 @@ npx expo start --web
 
 ## 🖼 Screenshots
 
-### 📌 Tela Inicial  
-![Tela Inicial](screenshots/tela_inicial.png)
+<p align="center">
+  <img src="screenshots/tela_inicial.png" width="260" />
+  <img src="screenshots/tela_detalhes.png" width="260" />
+  <img src="screenshots/tela_busca.png" width="260" />
+</p>
 
-### 📌 Tela de Detalhes  
-![Tela Detalhes](screenshots/tela_detalhes.png)
 
-### 📌 Tela de Busca  
-![Tela Busca](screenshots/tela_busca.png)
 
 > Coloque suas imagens na pasta **screenshots/** e mantenha esses nomes.
 
