@@ -1,4 +1,4 @@
-# 📱 Pokédex Digital — Trabalho Final de React Native
+# 📱 Pokédex Digital — Trabalho Final de Dispositivos Móveis
 
 Este projeto é uma **Pokédex Digital completa**, desenvolvida em **React Native com Expo**, utilizando a **PokéAPI** para listar, buscar e exibir detalhes de qualquer Pokémon.
 
